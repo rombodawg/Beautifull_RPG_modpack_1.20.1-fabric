@@ -5,7 +5,7 @@ A modpack by rombodawg combining RPG elements inspired by Dark Souls and Rethink
 How to use. 
 
 1. Install forge standalone client
-https://www.curseforge.com
+[https://www.curseforge.com](https://www.curseforge.com/download/app)
 
 2. Create new instance using fabric and minecraft 1.20.1
 
