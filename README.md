@@ -20,6 +20,8 @@ How to use.
 6. Thats it your game should be fully modded now. Feel free to tweak the setting of the shaders by going into the mods-iris mod settings,
 and tweaking the settings there because I have it set to max quality so unless you have a rtx 3080 or better your pc may melt when you load your world :D
 
+UPDATE: Make sure you load Controlify after PuzzlesLib in the mod order to prevent crashing
+
 Screenshots:
 ![Screenshot (495)](https://github.com/rombodawg/Beautifull_RPG_modpack_1.20.1-fabric/assets/106640737/a8f986bc-9944-4bdc-a0c8-38f009335924)
 ![Screenshot (498)](https://github.com/rombodawg/Beautifull_RPG_modpack_1.20.1-fabric/assets/106640737/2f101a05-bf29-4f3c-ab5c-808249bf1ee0)
