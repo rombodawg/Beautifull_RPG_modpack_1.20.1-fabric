@@ -7,7 +7,7 @@ How to use.
 1. Install forge standalone client
 [https://www.curseforge.com](https://www.curseforge.com/download/app)
 
-2. Create new instance using fabric and minecraft 1.20.1
+2. Create new instance using fabric 0.14.23 and minecraft 1.20.1
 
 3. open the folder containing this instance
 
